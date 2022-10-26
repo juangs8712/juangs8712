@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juangs8712
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Flutter...
-- 💞️ I’m looking to collaborate on Flutter projects.
+- 🌱 I’m currently development with flutter, NodeJS and NestJS
 - 📫 How to reach me: juangs8712@gmail.com
 
 <!---
