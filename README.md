@@ -1,3 +1,7 @@
+
+[🇪🇸 Español](#espanol) | [🇬🇧 English](#english)
+
+# Español
 # Juan Guerra Serrano #
 # Msc. Ing. en Automática y Desarrollador de Software Full Stack #
 
@@ -117,3 +121,123 @@ Ecosistema de aplicaciones para ofrecer información, seguimiento y funcionalida
 ## Automatización Avanzada (2019-2022)
 
 **Descripción:** Proyecto para el Programa Nacional de Automatización, Robótica e Inteligencia Artificial, enfocado en el procesamiento y refinado de acero.
+
+
+Resultados:
+
+---
+
+# English
+## Juan Guerra Serrano
+## MSc. Automation Engineer & Full Stack Software Developer
+
+### Contact
+
+Email: juangs8712@gmail.com
+
+Mobile: +53 58612322
+
+LinkedIn:  https://linkedin.com/in/juan-guerra-serrano-903b6216a
+
+Github:  https://github.com/juangs8712
+
+### Professional Summary
+Specialist with over 13 years of experience in automation and software development, focusing on solutions for industrial process control and cross-platform applications. I have a strong engineering background and a passion for continuous improvement. My goal is to apply my skills in technologies such as Flutter, NextJs, NestJS, and Node.js to develop efficient, high-quality solutions that exceed workplace challenges.
+
+### Skills & Technologies
+#### Programming Languages
+- C/C++
+- JavaScript
+- TypeScript
+- Dart (Flutter)
+- SQL
+
+#### Databases
+- MariaDB/MySQL
+- Postgres
+- SQLite
+- MongoDB
+- Hive
+
+#### Tools, Frameworks & Platforms
+- Flutter
+- NextJS
+- Node.js, NestJS
+- Git & GitHub/GitLab
+- Docker
+- Heroku
+- Render
+- Matlab
+- AutoCAD
+- VPS configuration and deployment
+- Play Store & App Store deployment
+- Automation & Control
+- PLC Programming: Schneider Modicon & Zelio
+- Vijeo Designer
+- Microcontrollers (software)
+- Industrial Networks: Ethernet, RS-232, RS-485
+- Devices from Siemens, ABB, Telemecanique, Schneider Electric, Danfoss, etc.
+
+### Professional Experience
+#### *May 2024 - Present (Full Stack Developer at Agencia IDP)*
+
+#### *May 2022 - April 2024 Freelancer*
+
+- Contributed significantly to the migration of an existing mobile app from Xamarin to Flutter, improving performance and user experience.
+- Developed a Business Management Ecosystem described in the featured projects section, focused on inventory and order management for a network of retail stores.
+
+#### *December 2012 - April 2022 CEDAI (Integral Automation Company)*
+
+- TAEST Specialist (Technology in Automation, Electrical, and Technical Services)
+- Design and programming of systems for monitoring and controlling industrial processes.
+- Digital signal processing.
+- Design, manufacturing, assembly, and maintenance of electrical and automation panels.
+- Development of cross-platform applications (web, mobile, desktop) with SQL database and cloud computing integration.
+- Handling of Siemens, ABB, Schneider Electric, and other devices.
+- Weighing Control Application: Developed a desktop application for weighing control at the Guayabal and Carúpano port stations. The solution automated data capture, improved accuracy, and eliminated manual errors in records, significantly optimizing report generation and port operations.
+
+### Featured Projects
+#### Only Football (Mobile App & Backend)
+
+**Summary:**
+Application ecosystem to provide information, tracking, and interactive features related to football, with real-time updates and notifications.
+
+**Technologies:**
+- Flutter, Firebase, Hive, BLoC, GoRouter, Node.js, TypeScript, Express.js, MongoDB, Socket.IO, JWT, Docker Compose.
+
+**Architecture:**
+- Modular, with BLoC state management and repositories to decouple business logic. The backend uses a REST API and WebSockets for real-time communication.
+
+**Purpose:**
+- Provide real-time football information and enable user interaction.
+
+#### Leflaner (Mobile App, Web Dashboard & Backend)
+
+**Summary:**
+- Comprehensive management platform for a network of food outlets, including a mobile app for users, an admin web dashboard, and a robust backend.
+
+**Technologies:**
+- Flutter, BLoC, Google Maps, Fluro, Node.js, TypeScript, Express.js, MongoDB, Socket.IO.
+
+**Purpose:**
+- Facilitate order, inventory, and logistics management for food outlets, improving end-user experience and administrative oversight.
+
+#### Da Vida (Web Dashboard, Mobile App & Backend)
+
+**Summary:**
+- Complete platform for managing ecological projects, aiming to promote conservation and responsible consumption through the adoption of trees, forests, and sustainable products.
+
+**Technologies:**
+- Flutter, Dart, BLoC, GoRouter, Hive, Node.js, TypeScript, Express.js, MongoDB, Socket.IO.
+
+**Architecture:**
+- Clean and modular, with domain, infrastructure, and presentation layers. Uses BLoC for state management and Hive for local persistence.
+
+**Purpose:**
+- Connect consumers, businesses, and communities to generate a positive and measurable environmental impact.
+
+#### Advanced Automation (2019-2022)
+
+**Description:** Project for the National Program of Automation, Robotics, and Artificial Intelligence, focused on steel processing and refining.
+
+Results:
